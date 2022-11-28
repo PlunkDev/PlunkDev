@@ -4,4 +4,4 @@ All my projects are currently private and in the very early stages of developmen
 
 ### Contact
 Discord: Plunk#1599
-E-Mail: Unavailable
+E-Mail: github@michiru.ga
