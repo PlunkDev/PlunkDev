@@ -1,5 +1,5 @@
 ### Welcome!
-I'm 18 yo developer from Poland.
+I'm 19 yo developer from Poland.
 All my projects are currently private and in the very early stages of development. There will be more information about them in the future!
 
 ### Contact
