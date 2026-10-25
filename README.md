@@ -1,7 +1,14 @@
-### Welcome!
-I'm 19 yo developer from Poland.
-All my projects are currently private and in the very early stages of development. There will be more information about them in the future!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/plunk-dev-na-ciemnym.svg">
+  <img alt="plunk.dev" src="assets/plunk-dev.svg" width="320">
+</picture>
+
+I make desktop apps, websites and games — small, solid things that leave nice ripples.
+
+### Stack
+
+Python · JavaScript · PHP · C# & Unity · HTML & CSS
 
 ### Contact
-##### Discord: Plunk#1599
-##### E-Mail: github@michiru.ga.
+
+[plunkdev.pl](https://plunkdev.pl) · [kontakt@plunkdev.pl](mailto:kontakt@plunkdev.pl) · Discord: `plunkk_`
